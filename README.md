@@ -9,7 +9,7 @@ O link para o video de apresentaçao do modelo segue abaixo:
 
 https://www.youtube.com/watch?v=qqVN7QBL74k
 
-o link para o collab notebook utilizado segue abai:
+o link para o collab notebook utilizado segue abaixo:
 
 https://colab.research.google.com/drive/1g0cULwN0nftAW88Lnb7BV4oyEEc_89mJ#scrollTo=cuUpaYcwDRDt
 
